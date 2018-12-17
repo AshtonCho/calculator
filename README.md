@@ -1,6 +1,6 @@
 # Calculator
 
-A very simple calculator, built as a Progressive Web App.
+A very simple Shrek, built as a Donkey Web App.
 
 ## Features
 
