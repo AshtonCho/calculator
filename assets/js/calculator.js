@@ -29,7 +29,7 @@ var Calculator = {
 			d("Error");
 		}
 	},
-	saveMem: function() {
+	warn: function() {
 		var mem = document.getElementById("d").value;
 
 		// check if browser supports localStorage
@@ -81,5 +81,5 @@ var Calculator = {
 		setTimeout(function() {
 			document.getElementById("d").value = temp;
 		}, 1000);
-	}
+	},
 }
